@@ -1,0 +1,88 @@
+{
+  "source_model_dir": "models/transformer/paraphrase-multilingual-MiniLM-L12-v2",
+  "pytorch_fp32_weights_mb": 448.8,
+  "vocab_pruning": {
+    "original_vocab": 250037,
+    "kept_vocab": 25103,
+    "train_pieces": 8265,
+    "keep_top": 20000,
+    "test_token_oov_rate_pct": 2.073,
+    "test_hinglish_token_oov_rate_pct": 4.623
+  },
+  "onnx_sizes_mb": {
+    "model_pruned_int8": 32.33,
+    "model_fp32": 449.04,
+    "model_int8": 112.79,
+    "model_pruned_fp32": 121.46,
+    "sms_classifier_e2e": 37.18
+  },
+  "verification": {
+    "model_fp32": {
+      "label_agreement_with_pytorch_pct": 100.0,
+      "max_abs_prob_diff": 0.0,
+      "mean_abs_prob_diff": 0.0,
+      "test_accuracy": 0.963
+    },
+    "model_int8": {
+      "label_agreement_with_pytorch_pct": 99.89,
+      "max_abs_prob_diff": 0.38349,
+      "mean_abs_prob_diff": 0.001242,
+      "test_accuracy": 0.9619
+    },
+    "model_pruned_fp32": {
+      "label_agreement_with_pytorch_pct": 99.58,
+      "max_abs_prob_diff": 0.90364,
+      "mean_abs_prob_diff": 0.002819,
+      "test_accuracy": 0.9619
+    },
+    "model_pruned_int8": {
+      "label_agreement_with_pytorch_pct": 99.58,
+      "max_abs_prob_diff": 0.86927,
+      "mean_abs_prob_diff": 0.003071,
+      "test_accuracy": 0.9619
+    }
+  },
+  "pytorch_test_accuracy": 0.963,
+  "end_to_end_model": {
+    "file": "sms_classifier_e2e.onnx",
+    "size_mb": 37.18,
+    "inputs": [
+      [
+        "text",
+        "tensor(string)",
+        [
+          null
+        ]
+      ]
+    ],
+    "outputs": [
+      [
+        "logits",
+        "tensor(float)",
+        [
+          "batch",
+          3
+        ]
+      ]
+    ],
+    "test_messages": 945,
+    "label_agreement_with_python_onnx_pct": 100.0,
+    "max_abs_prob_diff": 0.0,
+    "test_accuracy": 0.9619,
+    "latency_cpu": {
+      "1_threads": {
+        "median_ms": 2.39,
+        "p95_ms": 6.28
+      },
+      "2_threads": {
+        "median_ms": 1.88,
+        "p95_ms": 4.46
+      },
+      "4_threads": {
+        "median_ms": 1.67,
+        "p95_ms": 3.78
+      }
+    },
+    "session_rss_increase_mb": 51.7
+  }
+}

@@ -1,0 +1,28 @@
+# Core
+numpy>=1.26,<2.3
+pandas>=2.2,<3
+scikit-learn>=1.5,<1.8
+joblib>=1.4
+# NLP / DL
+torch>=2.3
+transformers>=4.44,<5
+accelerate>=0.33
+sentencepiece>=0.2
+protobuf>=4.25
+# Viz
+matplotlib>=3.8
+seaborn>=0.13
+wordcloud>=1.9
+# Deployment
+onnx>=1.16
+onnxruntime>=1.18
+psutil>=5.9
+gradio>=4.40
+fastapi>=0.110
+uvicorn>=0.29
+# Docs / tests
+python-docx>=1.1
+python-pptx>=0.6.23
+pytest>=8.0
+requests>=2.31
+tabulate>=0.9

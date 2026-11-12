@@ -1,0 +1,12 @@
+{
+  "labels": [
+    "ham",
+    "spam",
+    "phishing"
+  ],
+  "max_len": 128,
+  "pad_token_id": 1,
+  "tokenizer": "sentencepiece.bpe.model",
+  "id_convention": "xlm-r: <s>=0 <pad>=1 </s>=2 <unk>=3, piece_id+1",
+  "source_model": "paraphrase-multilingual-MiniLM-L12-v2"
+}

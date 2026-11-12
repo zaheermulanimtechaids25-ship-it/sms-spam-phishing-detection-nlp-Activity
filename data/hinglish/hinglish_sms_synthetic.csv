@@ -1,0 +1,448 @@
+text,label,category,template_id,source,language
+Aapka HDFC account band ho jayega. KYC update karne ke liye abhi link open kro: http://verify-2jhhe.example/login,phishing,kyc,P01,synthetic_hinglish,hinglish
+Aapka Canara Bank account band ho jayega. KYC update karne ke liye abhi link open karo: www.login46a34.example,phishing,kyc,P01,synthetic_hinglish,hinglish
+AAPKA CANARA BANK ACCOUNT BAND HO JAYEGA. KYC UPDATE KARNE KE LIYE ABI LINK OPEN KRO: BIT-D8PCU.EXAMPLE,phishing,kyc,P01,synthetic_hinglish,hinglish
+Aapka Bank of Baroda account band ho jayega. KYC update karne ke liye abi link open karo: https://nngyj.example/kyc,phishing,kyc,P01,synthetic_hinglish,hinglish
+Aapka SBI account band ho jayega. KYC update karne ke liye abhi link open karo: http://secure-5b4mp.example/verify,phishing,kyc,P01,synthetic_hinglish,hinglish
+"Dear customer, aapka PNB KYC expire ho gaya hai. 12 ghante me update nhi kiya to account block hoga. Click www.refund7vpnh.example",phishing,kyc,P02,synthetic_hinglish,hinglish
+"Dear customer, aapka Axis Bank KYC expire ho gaya hai. 2 ghante me update nhi kiya to account block hoga. Click http://update-y7u3j.example/verify !",phishing,kyc,P02,synthetic_hinglish,hinglish
+"Dear customer, aapka PNB KYC expire ho gaya hai. 6 ghante me update nhi kiya to account block hoga. Click bit-3fu93.example",phishing,kyc,P02,synthetic_hinglish,hinglish
+"Dear customer, aapka HDFC KYC expire ho gaya hai. 6 ghante me update nahi kiya to account block hoga. Click www.kycys9uf.example",phishing,kyc,P02,synthetic_hinglish,hinglish
+"dear customer, aapka canara bank kyc expire ho gaya h. 2 ghante me update nahi kiya to account block hoga. click https://hcmav.example/secure",phishing,kyc,P02,synthetic_hinglish,hinglish
+"ICICI ALERT: PAN CARD LINK NAHI HAI, AAPKI NETBANKING AAJ RAAT BAND HO JAYEGI. TURANT UPDATE KAREIN HTTP://CLAIM-H4S4Q.EXAMPLE/KYC",phishing,kyc,P03,synthetic_hinglish,hinglish
+"Bank of Baroda ALERT: PAN card link nahi h, aapki netbanking aaj raat band ho jayegi. Turant update karein www.updatehggur.example",phishing,kyc,P03,synthetic_hinglish,hinglish
+"SBI ALERT: PAN card link nahi h, aapki netbanking aaj raat band ho jayegi. Turant update karein www.update836hf.example",phishing,kyc,P03,synthetic_hinglish,hinglish
+"canara bank alert: pan card link nahi hai, aapki netbanking aaj raat band ho jayegi. turant update karein bit-gkg9b.example",phishing,kyc,P03,synthetic_hinglish,hinglish
+"PNB ALERT: PAN card link nahi hai, aapki netbanking aaj raat band ho jayegi. Turant update karein http://refund-d97vh.example/login",phishing,kyc,P03,synthetic_hinglish,hinglish
+Aapka Vi SIM 24 ghante me block ho jayega kyunki KYC pending h. Verify karne ke liye call kro +91 55555 51079,phishing,kyc,P04,synthetic_hinglish,hinglish
+Aapka Airtel SIM 24 ghante me block ho jayega kyunki KYC pending h. Verify karne ke liye call karo +91 55555 84980 !,phishing,kyc,P04,synthetic_hinglish,hinglish
+Aapka Airtel SIM 12 ghante me block ho jayega kyunki KYC pending hai. Verify karne ke liye call kro +91 55555 34874,phishing,kyc,P04,synthetic_hinglish,hinglish
+Aapka BSNL SIM 24 ghante me block ho jayega kyunki KYC pending h. Verify karne ke liye call karo +91 55555 80112,phishing,kyc,P04,synthetic_hinglish,hinglish
+Aapka Vi SIM 6 ghante me block ho jayega kyunki KYC pending h. Verify karne ke liye call karo +91 55555 31586 !,phishing,kyc,P04,synthetic_hinglish,hinglish
+"DEAR KOTAK USER, AAPKA AADHAAR VERIFICATION FAIL HUA HAI. ACCOUNT CHALU RAKHNE KE LIYE DETAILS YAHA BHARO HTTP://SECURE-JF4ZD.EXAMPLE/PAY !",phishing,kyc,P05,synthetic_hinglish,hinglish
+"Dear Axis Bank user, aapka Aadhaar verification fail hua h. Account chalu rakhne ke liye details yaha bharo bit-93jnx.example",phishing,kyc,P05,synthetic_hinglish,hinglish
+"dear bank of baroda user, aapka aadhaar verification fail hua hai. account chalu rakhne ke liye details yaha bharo bit-wtdp7.example",phishing,kyc,P05,synthetic_hinglish,hinglish
+"Dear Bank of Baroda user, aapka Aadhaar verification fail hua hai. Account chalu rakhne ke liye details yaha bharo bit-y6d27.example !",phishing,kyc,P05,synthetic_hinglish,hinglish
+"DEAR KOTAK USER, AAPKA AADHAAR VERIFICATION FAIL HUA HAI. ACCOUNT CHALU RAKHNE KE LIYE DETAILS YAHA BHARO BIT-5AKKG.EXAMPLE",phishing,kyc,P05,synthetic_hinglish,hinglish
+Aapka Bank of Baroda debit card block kar diya gaya hai. Unblock karne ke liye card number aur PIN reply kro,phishing,account_block,P06,synthetic_hinglish,hinglish
+Aapka HDFC debit card block kar diya gaya hai. Unblock karne ke liye card number aur PIN reply karo,phishing,account_block,P06,synthetic_hinglish,hinglish
+Aapka Bank of Baroda debit card block kar diya gaya hai. Unblock karne ke liye card number aur PIN reply karo,phishing,account_block,P06,synthetic_hinglish,hinglish
+Aapka Canara Bank debit card block kar diya gaya h. Unblock karne ke liye card number aur PIN reply karo,phishing,account_block,P06,synthetic_hinglish,hinglish
+AAPKA PNB DEBIT CARD BLOCK KAR DIYA GAYA H. UNBLOCK KARNE KE LIYE CARD NUMBER AUR PIN REPLY KARO,phishing,account_block,P06,synthetic_hinglish,hinglish
+URGENT: aapke Canara Bank account me suspicious login hua hai. Abhi password reset kro warna paisa kat jayega www.refundbg5qp.example,phishing,account_block,P07,synthetic_hinglish,hinglish
+URGENT: aapke PNB account me suspicious login hua hai. Abhi password reset karo warna paisa kat jayega bit-hjqsa.example,phishing,account_block,P07,synthetic_hinglish,hinglish
+URGENT: aapke SBI account me suspicious login hua hai. Abhi password reset karo warna paisa kat jayega http://update-xqe6r.example/kyc,phishing,account_block,P07,synthetic_hinglish,hinglish
+urgent: aapke canara bank account me suspicious login hua hai. abhi password reset karo warna paisa kat jayega http://verify-2ub9n.example/kyc,phishing,account_block,P07,synthetic_hinglish,hinglish
+URGENT: aapke PNB account me suspicious login hua hai. Abhi password reset kro warna paisa kat jayega https://zj3nf.example/claim...,phishing,account_block,P07,synthetic_hinglish,hinglish
+HDFC: aapka account temporarily suspend hai. Reactivate karne ke liye login karein bit-6yw4d.example jaldi,phishing,account_block,P08,synthetic_hinglish,hinglish
+Canara Bank: aapka account temporarily suspend hai. Reactivate karne ke liye login karein www.kycqf2t9.example jaldi,phishing,account_block,P08,synthetic_hinglish,hinglish
+kotak: aapka account temporarily suspend hai. reactivate karne ke liye login karein https://as6mf.example/reactivate jaldi,phishing,account_block,P08,synthetic_hinglish,hinglish
+Kotak: aapka account temporarily suspend hai. Reactivate karne ke liye login karein www.claimu3hzs.example jaldi,phishing,account_block,P08,synthetic_hinglish,hinglish
+bank of baroda: aapka account temporarily suspend hai. reactivate karne ke liye login karein http://reactivate-zrjkj.example/kyc jldi,phishing,account_block,P08,synthetic_hinglish,hinglish
+aapka electricity connection aaj raat 9:30 baje kat jayega kyunki pichla bill update nahi hua. turant call karo +91 55555 89413,phishing,account_block,P09,synthetic_hinglish,hinglish
+Aapka electricity connection aaj raat 9:30 baje kat jayega kyunki pichla bill update nahi hua. Turant call kro +91 55555 71094!!,phishing,account_block,P09,synthetic_hinglish,hinglish
+Aapka electricity connection aaj raat 9:30 baje kat jayega kyunki pichla bill update nhi hua. Turant call karo +91 55555 22941,phishing,account_block,P09,synthetic_hinglish,hinglish
+aapka electricity connection aaj raat 9:30 baje kat jayega kyunki pichla bill update nahi hua. turant call kro +91 55555 96499,phishing,account_block,P09,synthetic_hinglish,hinglish
+aapka electricity connection aaj raat 9:30 baje kat jayega kyunki pichla bill update nhi hua. turant call kro +91 55555 20679,phishing,account_block,P09,synthetic_hinglish,hinglish
+UPI: aapko Rs 2500 cashback mila hai. Paisa lene ke liye UPI PIN daal kar request accept karo https://duhxe.example/refund,phishing,upi,P10,synthetic_hinglish,hinglish
+GPay: aapko Rs 50000 cashback mila hai. Paisa lene ke liye UPI PIN daal kar request accept karo bit-cwb7q.example,phishing,upi,P10,synthetic_hinglish,hinglish
+PhonePe: aapko Rs 50000 cashback mila hai. Paisa lene ke liye UPI PIN daal kar request accept karo www.rewardxr8jf.example,phishing,upi,P10,synthetic_hinglish,hinglish
+BHIM UPI: aapko Rs 499 cashback mila h. Paisa lene ke liye UPI PIN daal kar request accept karo http://claim-cmjmd.example/pay,phishing,upi,P10,synthetic_hinglish,hinglish
+UPI: aapko Rs 1500 cashback mila hai. Paisa lene ke liye UPI PIN daal kar request accept kro https://r7zsd.example/login,phishing,upi,P10,synthetic_hinglish,hinglish
+aapke phonepe me rs 50000 ka refund pending hai. claim karne ke liye apna upi pin aur otp share karein...,phishing,upi,P11,synthetic_hinglish,hinglish
+Aapke Paytm me Rs 4999 ka refund pending hai. Claim karne ke liye apna UPI PIN aur OTP share karein,phishing,upi,P11,synthetic_hinglish,hinglish
+Aapke BHIM UPI me Rs 1500 ka refund pending hai. Claim karne ke liye apna UPI PIN aur OTP share karein,phishing,upi,P11,synthetic_hinglish,hinglish
+Aapke BHIM UPI me Rs 2500 ka refund pending hai. Claim karne ke liye apna UPI PIN aur OTP share karein,phishing,upi,P11,synthetic_hinglish,hinglish
+Aapke GPay me Rs 50000 ka refund pending hai. Claim karne ke liye apna UPI PIN aur OTP share karein!!,phishing,upi,P11,synthetic_hinglish,hinglish
+"beta galti se maine aapke number par Rs 1500 bhej diye, pls wapas kar do, maine collect request bheja hai usme PIN daal do",phishing,upi,P12,synthetic_hinglish,hinglish
+"bro galti se maine aapke number par Rs 1500 bhej diye, pls wapas kar do, maine collect request bheja hai usme PIN daal do",phishing,upi,P12,synthetic_hinglish,hinglish
+"sir galti se maine aapke number par rs 499 bhej diye, pls wapas kar do, maine collect request bheja hai usme pin daal do",phishing,upi,P12,synthetic_hinglish,hinglish
+"didi galti se maine aapke number par rs 4999 bhej diye, pls wapas kar do, maine collect request bheja hai usme pin daal do",phishing,upi,P12,synthetic_hinglish,hinglish
+"bhai galti se maine aapke number par Rs 25000 bhej diye, pls wapas kar do, maine collect request bheja hai usme PIN daal do",phishing,upi,P12,synthetic_hinglish,hinglish
+congratulations! phonepe reward rs 9999 aapke account me credit hone wala hai. abhi http://secure-xgwjy.example/kyc pe jaake verify karo,phishing,upi,P13,synthetic_hinglish,hinglish
+Congratulations! PhonePe reward Rs 2500 aapke account me credit hone wala hai. Abhi https://4u7nt.example/kyc pe jaake verify karo...,phishing,upi,P13,synthetic_hinglish,hinglish
+Congratulations! BHIM UPI reward Rs 9999 aapke account me credit hone wala hai. Abhi www.update4paju.example pe jaake verify kro,phishing,upi,P13,synthetic_hinglish,hinglish
+Congratulations! UPI reward Rs 9999 aapke account me credit hone wala hai. Abhi www.securexcx5r.example pe jaake verify kro,phishing,upi,P13,synthetic_hinglish,hinglish
+Congratulations! UPI reward Rs 25000 aapke account me credit hone wala h. Abhi www.kyc7qxd5.example pe jaake verify karo,phishing,upi,P13,synthetic_hinglish,hinglish
+Bank of Baroda customer care: aapke account ki security ke liye abi aaya hua OTP is number pe bhejo +91 55555 06431,phishing,otp,P14,synthetic_hinglish,hinglish
+PNB customer care: aapke account ki security ke liye abhi aaya hua OTP is number pe bhejo +91 55555 18393,phishing,otp,P14,synthetic_hinglish,hinglish
+ICICI customer care: aapke account ki security ke liye abhi aaya hua OTP is number pe bhejo +91 55555 10205,phishing,otp,P14,synthetic_hinglish,hinglish
+BANK OF BARODA CUSTOMER CARE: AAPKE ACCOUNT KI SECURITY KE LIYE ABHI AAYA HUA OTP IS NUMBER PE BHEJO +91 55555 89178,phishing,otp,P14,synthetic_hinglish,hinglish
+Kotak customer care: aapke account ki security ke liye abhi aaya hua OTP is number pe bhejo +91 55555 61771,phishing,otp,P14,synthetic_hinglish,hinglish
+"Aapka parcel deliver karne ke liye ek OTP aaya hai, delivery boy ko batana zaroori hai. Abhi wo OTP reply karo",phishing,otp,P15,synthetic_hinglish,hinglish
+"Aapka parcel deliver karne ke liye ek OTP aaya h, delivery boy ko batana zaroori h. Abhi wo OTP reply karo!!",phishing,otp,P15,synthetic_hinglish,hinglish
+"Aapka parcel deliver karne ke liye ek OTP aaya h, delivery boy ko batana zaroori h. Abhi wo OTP reply karo",phishing,otp,P15,synthetic_hinglish,hinglish
+"Aapka parcel deliver karne ke liye ek OTP aaya h, delivery boy ko batana zaroori h. Abhi wo OTP reply karo...",phishing,otp,P15,synthetic_hinglish,hinglish
+"Aapka parcel deliver karne ke liye ek OTP aaya hai, delivery boy ko batana zaroori hai. Abhi wo OTP reply kro",phishing,otp,P15,synthetic_hinglish,hinglish
+"HELLO SIR, MERA PHONE KHARAB HAI, AAPKE NUMBER PAR MERA OTP GAYA HAI, PLEASE JLDI FORWARD KAR DO",phishing,otp,P16,synthetic_hinglish,hinglish
+"Hello didi, mera phone kharab h, aapke number par mera OTP gaya h, please jaldi forward kar do",phishing,otp,P16,synthetic_hinglish,hinglish
+"hello dost, mera phone kharab hai, aapke number par mera otp gaya hai, pls jaldi forward kar do",phishing,otp,P16,synthetic_hinglish,hinglish
+"Hello sir, mera phone kharab h, aapke number par mera OTP gaya h, please jldi forward kar do",phishing,otp,P16,synthetic_hinglish,hinglish
+"Hello beta, mera phone kharab hai, aapke number par mera OTP gaya hai, please jaldi forward kar do",phishing,otp,P16,synthetic_hinglish,hinglish
+HDFC reward points expire ho rahe hai. Redeem karne ke liye OTP aur card ki last 4 digit reply karein,phishing,otp,P17,synthetic_hinglish,hinglish
+KOTAK REWARD POINTS EXPIRE HO RAHE HAI. REDEEM KARNE KE LIYE OTP AUR CARD KI LAST 4 DIGIT REPLY KAREIN,phishing,otp,P17,synthetic_hinglish,hinglish
+bank of baroda reward points expire ho rahe h. redeem karne ke liye otp aur card ki last 4 digit reply karein,phishing,otp,P17,synthetic_hinglish,hinglish
+Axis Bank reward points expire ho rahe h. Redeem karne ke liye OTP aur card ki last 4 digit reply karein,phishing,otp,P17,synthetic_hinglish,hinglish
+SBI REWARD POINTS EXPIRE HO RAHE HAI. REDEEM KARNE KE LIYE OTP AUR CARD KI LAST 4 DIGIT REPLY KAREIN,phishing,otp,P17,synthetic_hinglish,hinglish
+BLUEDART: AAPKA PARCEL ADDRESS INCOMPLETE HONE KI WAJAH SE RUK GAYA HAI. RS 25 FEE PAY KARKE ADDRESS UPDATE KARO WWW.UPDATETXFBH.EXAMPLE,phishing,delivery,P18,synthetic_hinglish,hinglish
+BlueDart: aapka parcel address incomplete hone ki wajah se ruk gaya hai. Rs 25 fee pay karke address update karo bit-mduyp.example,phishing,delivery,P18,synthetic_hinglish,hinglish
+DTDC: aapka parcel address incomplete hone ki wajah se ruk gaya hai. Rs 25 fee pay karke address update karo bit-wz9ck.example,phishing,delivery,P18,synthetic_hinglish,hinglish
+BlueDart: aapka parcel address incomplete hone ki wajah se ruk gaya hai. Rs 25 fee pay karke address update kro https://f9gm9.example/login !,phishing,delivery,P18,synthetic_hinglish,hinglish
+ekart: aapka parcel address incomplete hone ki wajah se ruk gaya hai. rs 25 fee pay karke address update karo www.kycwpeff.example,phishing,delivery,P18,synthetic_hinglish,hinglish
+Aapka DMart order OD735977 return ho jayega. Delivery confirm karne ke liye card details yaha daalo https://3pttq.example/login,phishing,delivery,P19,synthetic_hinglish,hinglish
+Aapka Myntra order OD124782 return ho jayega. Delivery confirm karne ke liye card details yaha daalo bit-c98h5.example !,phishing,delivery,P19,synthetic_hinglish,hinglish
+aapka dmart order od220472 return ho jayega. delivery confirm karne ke liye card details yaha daalo bit-rwa7c.example,phishing,delivery,P19,synthetic_hinglish,hinglish
+AAPKA BIG BAZAAR ORDER OD971179 RETURN HO JAYEGA. DELIVERY CONFIRM KARNE KE LIYE CARD DETAILS YAHA DAALO BIT-AXTVH.EXAMPLE,phishing,delivery,P19,synthetic_hinglish,hinglish
+Aapka Ajio order OD880670 return ho jayega. Delivery confirm karne ke liye card details yaha daalo bit-nj2an.example,phishing,delivery,P19,synthetic_hinglish,hinglish
+"DTDC alert: customs charge pending h, parcel aaj destroy ho jayega. Abhi payment kro http://claim-xf4ec.example/pay",phishing,delivery,P20,synthetic_hinglish,hinglish
+"Delhivery alert: customs charge pending hai, parcel aaj destroy ho jayega. Abhi payment karo bit-n63b6.example",phishing,delivery,P20,synthetic_hinglish,hinglish
+"Ekart alert: customs charge pending hai, parcel aaj destroy ho jayega. Abhi payment kro https://4c2qc.example/login",phishing,delivery,P20,synthetic_hinglish,hinglish
+"India Post alert: customs charge pending hai, parcel aaj destroy ho jayega. Abhi payment karo http://reactivate-wqjx4.example/login",phishing,delivery,P20,synthetic_hinglish,hinglish
+"Delhivery alert: customs charge pending hai, parcel aaj destroy ho jayega. Abhi payment karo http://update-h3xnn.example/pay",phishing,delivery,P20,synthetic_hinglish,hinglish
+"Badhai ho! Aapne Airtel lucky draw me Rs 5,00,000 jeete hai. Paisa lene ke liye processing fee Rs 499 bhejo aur bank details do",phishing,lottery,P21,synthetic_hinglish,hinglish
+Badhai ho! Aapne BSNL lucky draw me Rs 10 lakh jeete hai. Paisa lene ke liye processing fee Rs 999 bhejo aur bank details do,phishing,lottery,P21,synthetic_hinglish,hinglish
+"badhai ho! aapne jio lucky draw me rs 50,000 jeete hai. paisa lene ke liye processing fee rs 4999 bhejo aur bank details do",phishing,lottery,P21,synthetic_hinglish,hinglish
+Badhai ho! Aapne Airtel lucky draw me Rs 10 lakh jeete hai. Paisa lene ke liye processing fee Rs 50000 bhejo aur bank details do,phishing,lottery,P21,synthetic_hinglish,hinglish
+"Badhai ho! Aapne BSNL lucky draw me Rs 50,000 jeete hai. Paisa lene ke liye processing fee Rs 25000 bhejo aur bank details do",phishing,lottery,P21,synthetic_hinglish,hinglish
+"KBC lottery winner! Aapka number select hua h Rs 50,000 ke liye. Claim karne ke liye call kro +91 55555 92268 aur account number batao",phishing,lottery,P22,synthetic_hinglish,hinglish
+KBC lottery winner! Aapka number select hua hai Rs 25 lakh ke liye. Claim karne ke liye call karo +91 55555 14384 aur account number batao,phishing,lottery,P22,synthetic_hinglish,hinglish
+"KBC lottery winner! Aapka number select hua hai Rs 50,000 ke liye. Claim karne ke liye call karo +91 55555 59001 aur account number batao",phishing,lottery,P22,synthetic_hinglish,hinglish
+KBC lottery winner! Aapka number select hua hai Rs 25 lakh ke liye. Claim karne ke liye call kro +91 55555 47364 aur account number batao,phishing,lottery,P22,synthetic_hinglish,hinglish
+KBC lottery winner! Aapka number select hua hai Rs 25 lakh ke liye. Claim karne ke liye call kro +91 55555 62588 aur account number batao,phishing,lottery,P22,synthetic_hinglish,hinglish
+"Aapka mobile number Rs 10 lakh ke international lottery me jeeta h. Apna naam, Aadhaar aur bank details reply karein",phishing,lottery,P23,synthetic_hinglish,hinglish
+"Aapka mobile number Rs 5,00,000 ke international lottery me jeeta h. Apna naam, Aadhaar aur bank details reply karein",phishing,lottery,P23,synthetic_hinglish,hinglish
+"AAPKA MOBILE NUMBER RS 1 CRORE KE INTERNATIONAL LOTTERY ME JEETA H. APNA NAAM, AADHAAR AUR BANK DETAILS REPLY KAREIN...",phishing,lottery,P23,synthetic_hinglish,hinglish
+"AAPKA MOBILE NUMBER RS 25 LAKH KE INTERNATIONAL LOTTERY ME JEETA HAI. APNA NAAM, AADHAAR AUR BANK DETAILS REPLY KAREIN",phishing,lottery,P23,synthetic_hinglish,hinglish
+"AAPKA MOBILE NUMBER RS 1 CRORE KE INTERNATIONAL LOTTERY ME JEETA HAI. APNA NAAM, AADHAAR AUR BANK DETAILS REPLY KAREIN !",phishing,lottery,P23,synthetic_hinglish,hinglish
+Part time job! Ghar baithe roz Rs 50000 kamao. Registration ke liye Rs 50000 fee bharo aur bank details bhejo https://w7tem.example/kyc,phishing,job,P24,synthetic_hinglish,hinglish
+Part time job! Ghar baithe roz Rs 499 kamao. Registration ke liye Rs 9999 fee bharo aur bank details bhejo www.reactivateydqvk.example,phishing,job,P24,synthetic_hinglish,hinglish
+Part time job! Ghar baithe roz Rs 25000 kamao. Registration ke liye Rs 1500 fee bharo aur bank details bhejo http://secure-bv9zd.example/kyc,phishing,job,P24,synthetic_hinglish,hinglish
+part time job! ghar baithe roz rs 1500 kamao. registration ke liye rs 2500 fee bharo aur bank details bhejo https://mystp.example/reward,phishing,job,P24,synthetic_hinglish,hinglish
+Part time job! Ghar baithe roz Rs 2500 kamao. Registration ke liye Rs 4999 fee bharo aur bank details bhejo https://kh9k3.example/reward,phishing,job,P24,synthetic_hinglish,hinglish
+aapka resume select hua h meesho me rs 30000 salary ke liye. joining confirm karne ke liye rs 2000 security deposit bhejo bit-kbk9z.example...,phishing,job,P25,synthetic_hinglish,hinglish
+Aapka resume select hua h Amazon me Rs 15000 salary ke liye. Joining confirm karne ke liye Rs 2000 security deposit bhejo bit-hxhbd.example,phishing,job,P25,synthetic_hinglish,hinglish
+Aapka resume select hua hai Meesho me Rs 25000 salary ke liye. Joining confirm karne ke liye Rs 2000 security deposit bhejo https://mkxb8.example/login,phishing,job,P25,synthetic_hinglish,hinglish
+Aapka resume select hua hai Meesho me Rs 45000 salary ke liye. Joining confirm karne ke liye Rs 2000 security deposit bhejo http://kyc-82968.example/verify,phishing,job,P25,synthetic_hinglish,hinglish
+Aapka resume select hua h DMart me Rs 45000 salary ke liye. Joining confirm karne ke liye Rs 2000 security deposit bhejo bit-g4dmf.example,phishing,job,P25,synthetic_hinglish,hinglish
+Work from home: sirf YouTube videos like kro aur Rs 25000 roz pao. Telegram join kro aur UPI ID verify kro https://mcpyd.example/reward,phishing,job,P26,synthetic_hinglish,hinglish
+Work from home: sirf YouTube videos like karo aur Rs 4999 roz pao. Telegram join karo aur UPI ID verify karo bit-zhbyd.example,phishing,job,P26,synthetic_hinglish,hinglish
+Work from home: sirf YouTube videos like karo aur Rs 2500 roz pao. Telegram join karo aur UPI ID verify karo www.secure9eser.example,phishing,job,P26,synthetic_hinglish,hinglish
+Work from home: sirf YouTube videos like kro aur Rs 50000 roz pao. Telegram join kro aur UPI ID verify kro http://reward-znc8v.example/login,phishing,job,P26,synthetic_hinglish,hinglish
+Work from home: sirf YouTube videos like kro aur Rs 50000 roz pao. Telegram join kro aur UPI ID verify kro https://7tr4b.example/update,phishing,job,P26,synthetic_hinglish,hinglish
+Income Tax Dept: aapka Rs 999 ka refund approve hua h. Account verify karke refund lo http://verify-qnzcu.example/login,phishing,tax_refund,P27,synthetic_hinglish,hinglish
+INCOME TAX DEPT: AAPKA RS 25000 KA REFUND APPROVE HUA HAI. ACCOUNT VERIFY KARKE REFUND LO HTTPS://688PP.EXAMPLE/CLAIM !,phishing,tax_refund,P27,synthetic_hinglish,hinglish
+Income Tax Dept: aapka Rs 50000 ka refund approve hua hai. Account verify karke refund lo www.rewardqup5h.example,phishing,tax_refund,P27,synthetic_hinglish,hinglish
+Income Tax Dept: aapka Rs 499 ka refund approve hua hai. Account verify karke refund lo http://secure-gcdwb.example/pay,phishing,tax_refund,P27,synthetic_hinglish,hinglish
+Income Tax Dept: aapka Rs 9999 ka refund approve hua hai. Account verify karke refund lo www.reactivatehk7ey.example,phishing,tax_refund,P27,synthetic_hinglish,hinglish
+AAPKA GAS SUBSIDY RS 25000 PENDING H. BANK DETAILS UPDATE KARNE KE LIYE LINK KHOLO WWW.REWARDMZQQE.EXAMPLE,phishing,tax_refund,P28,synthetic_hinglish,hinglish
+Aapka gas subsidy Rs 25000 pending h. Bank details update karne ke liye link kholo bit-tephj.example,phishing,tax_refund,P28,synthetic_hinglish,hinglish
+Aapka gas subsidy Rs 999 pending hai. Bank details update karne ke liye link kholo www.secure43v2y.example,phishing,tax_refund,P28,synthetic_hinglish,hinglish
+Aapka gas subsidy Rs 2500 pending hai. Bank details update karne ke liye link kholo www.securep8hum.example,phishing,tax_refund,P28,synthetic_hinglish,hinglish
+Aapka gas subsidy Rs 9999 pending hai. Bank details update karne ke liye link kholo https://nmqbv.example/secure,phishing,tax_refund,P28,synthetic_hinglish,hinglish
+"Pre-approved loan Rs 50,000 sirf 5 min me! Abhi apply kro, PAN aur net banking password se verify kro www.reactivatej35s9.example!!",phishing,loan,P29,synthetic_hinglish,hinglish
+"Pre-approved loan Rs 5,00,000 sirf 5 min me! Abhi apply karo, PAN aur net banking password se verify karo http://verify-3aqe5.example/kyc",phishing,loan,P29,synthetic_hinglish,hinglish
+"pre-approved loan rs 5,00,000 sirf 5 min me! abhi apply karo, pan aur net banking password se verify karo bit-uqaat.example !",phishing,loan,P29,synthetic_hinglish,hinglish
+"Pre-approved loan Rs 25 lakh sirf 5 min me! Abhi apply kro, PAN aur net banking password se verify kro www.login4pcn9.example",phishing,loan,P29,synthetic_hinglish,hinglish
+"PRE-APPROVED LOAN RS 1 CRORE SIRF 5 MIN ME! ABHI APPLY KARO, PAN AUR NET BANKING PASSWORD SE VERIFY KARO HTTP://REWARD-SBXAZ.EXAMPLE/KYC",phishing,loan,P29,synthetic_hinglish,hinglish
+Aapka loan approve ho gaya h. Amount release karne ke liye processing charge Rs 50000 UPI karo aur OTP batao...,phishing,loan,P30,synthetic_hinglish,hinglish
+Aapka loan approve ho gaya h. Amount release karne ke liye processing charge Rs 1500 UPI karo aur OTP batao,phishing,loan,P30,synthetic_hinglish,hinglish
+AAPKA LOAN APPROVE HO GAYA HAI. AMOUNT RELEASE KARNE KE LIYE PROCESSING CHARGE RS 9999 UPI KARO AUR OTP BATAO,phishing,loan,P30,synthetic_hinglish,hinglish
+Aapka loan approve ho gaya hai. Amount release karne ke liye processing charge Rs 999 UPI karo aur OTP batao,phishing,loan,P30,synthetic_hinglish,hinglish
+aapka loan approve ho gaya hai. amount release karne ke liye processing charge rs 9999 upi kro aur otp batao !,phishing,loan,P30,synthetic_hinglish,hinglish
+"Papa main naye number se message kar raha hu, urgent Rs 1500 chahiye, is UPI pe bhej do jldi, kisi ko mat batana",phishing,impersonation,P31,synthetic_hinglish,hinglish
+"PAPA MAIN NAYE NUMBER SE MESSAGE KAR RAHA HU, URGENT RS 999 CHAHIYE, IS UPI PE BHEJ DO JLDI, KISI KO MAT BATANA",phishing,impersonation,P31,synthetic_hinglish,hinglish
+"papa main naye number se message kar raha hu, urgent rs 9999 chahiye, is upi pe bhej do jaldi, kisi ko mat batana",phishing,impersonation,P31,synthetic_hinglish,hinglish
+"Papa main naye number se message kar raha hu, urgent Rs 25000 chahiye, is UPI pe bhej do jldi, kisi ko mat batana",phishing,impersonation,P31,synthetic_hinglish,hinglish
+"Papa main naye number se message kar raha hu, urgent Rs 2500 chahiye, is UPI pe bhej do jldi, kisi ko mat batana",phishing,impersonation,P31,synthetic_hinglish,hinglish
+police cyber cell: aapke aadhaar se illegal parcel bheja gaya h. case band karne ke liye abhi call karo +91 55555 57569,phishing,impersonation,P32,synthetic_hinglish,hinglish
+Police cyber cell: aapke Aadhaar se illegal parcel bheja gaya hai. Case band karne ke liye abi call karo +91 55555 79356,phishing,impersonation,P32,synthetic_hinglish,hinglish
+Police cyber cell: aapke Aadhaar se illegal parcel bheja gaya h. Case band karne ke liye abhi call karo +91 55555 37416,phishing,impersonation,P32,synthetic_hinglish,hinglish
+Police cyber cell: aapke Aadhaar se illegal parcel bheja gaya hai. Case band karne ke liye abi call karo +91 55555 96886,phishing,impersonation,P32,synthetic_hinglish,hinglish
+police cyber cell: aapke aadhaar se illegal parcel bheja gaya hai. case band karne ke liye abi call karo +91 55555 52909,phishing,impersonation,P32,synthetic_hinglish,hinglish
+"Mega SALE! Ajio par 50% tak OFF sirf aaj. Jaldi shopping karo, offer limited hai!!",spam,promo,S01,synthetic_hinglish,hinglish
+"Mega SALE! Myntra par 40% tak OFF sirf aaj. Jaldi shopping karo, offer limited hai!",spam,promo,S01,synthetic_hinglish,hinglish
+"MEGA SALE! FLIPKART PAR 40% TAK OFF SIRF AAJ. JALDI SHOPPING KRO, OFFER LIMITED H!",spam,promo,S01,synthetic_hinglish,hinglish
+"mega sale! big bazaar par 20% tak off sirf aaj. jaldi shopping karo, offer limited hai!",spam,promo,S01,synthetic_hinglish,hinglish
+"Mega SALE! Meesho par 10% tak OFF sirf aaj. Jaldi shopping karo, offer limited hai!",spam,promo,S01,synthetic_hinglish,hinglish
+Diwali dhamaka offer: har order par flat 50% discount. Flipkart app download karo aur khareedo,spam,promo,S02,synthetic_hinglish,hinglish
+Diwali dhamaka offer: har order par flat 40% discount. Ajio app download karo aur khareedo,spam,promo,S02,synthetic_hinglish,hinglish
+Diwali dhamaka offer: har order par flat 60% discount. Amazon app download kro aur khareedo,spam,promo,S02,synthetic_hinglish,hinglish
+Diwali dhamaka offer: har order par flat 40% discount. Big Bazaar app download karo aur khareedo,spam,promo,S02,synthetic_hinglish,hinglish
+Diwali dhamaka offer: har order par flat 70% discount. Myntra app download kro aur khareedo,spam,promo,S02,synthetic_hinglish,hinglish
+"weekend special: biryani combo sirf rs 99 me. aaj hi order kro, free delivery!",spam,promo,S03,synthetic_hinglish,hinglish
+"Weekend special: misal combo sirf Rs 99 me. Aaj hi order karo, free delivery!",spam,promo,S03,synthetic_hinglish,hinglish
+"Weekend special: chai combo sirf Rs 99 me. Aaj hi order karo, free delivery!",spam,promo,S03,synthetic_hinglish,hinglish
+"weekend special: samosa combo sirf rs 99 me. aaj hi order karo, free delivery!",spam,promo,S03,synthetic_hinglish,hinglish
+"Weekend special: pizza combo sirf Rs 99 me. Aaj hi order karo, free delivery!",spam,promo,S03,synthetic_hinglish,hinglish
+Naye saal ki khushi me Myntra lekar aaya h buy 1 get 1 free. Stock khatam hone se pehle aao!,spam,promo,S04,synthetic_hinglish,hinglish
+Naye saal ki khushi me Ajio lekar aaya h buy 1 get 1 free. Stock khatam hone se pehle aao!,spam,promo,S04,synthetic_hinglish,hinglish
+Naye saal ki khushi me Myntra lekar aaya hai buy 1 get 1 free. Stock khatam hone se pehle aao!,spam,promo,S04,synthetic_hinglish,hinglish
+Naye saal ki khushi me DMart lekar aaya hai buy 1 get 1 free. Stock khatam hone se pehle aao!,spam,promo,S04,synthetic_hinglish,hinglish
+NAYE SAAL KI KHUSHI ME AJIO LEKAR AAYA HAI BUY 1 GET 1 FREE. STOCK KHATAM HONE SE PEHLE AAO!,spam,promo,S04,synthetic_hinglish,hinglish
+airtel: sirf rs 299 me unlimited calls aur 2gb/day data. abhi recharge karo aur maza lo,spam,telecom,S05,synthetic_hinglish,hinglish
+Vi: sirf Rs 299 me unlimited calls aur 2GB/day data. Abhi recharge kro aur maza lo,spam,telecom,S05,synthetic_hinglish,hinglish
+BSNL: SIRF RS 299 ME UNLIMITED CALLS AUR 2GB/DAY DATA. ABHI RECHARGE KRO AUR MAZA LO,spam,telecom,S05,synthetic_hinglish,hinglish
+Jio: sirf Rs 299 me unlimited calls aur 2GB/day data. Abhi recharge kro aur maza lo,spam,telecom,S05,synthetic_hinglish,hinglish
+Airtel: sirf Rs 299 me unlimited calls aur 2GB/day data. Abhi recharge karo aur maza lo !,spam,telecom,S05,synthetic_hinglish,hinglish
+"Dear customer, Airtel ka naya plan aaya hai, 84 din validity ke saath. Recharge karne ke liye *121# dial karo",spam,telecom,S06,synthetic_hinglish,hinglish
+"Dear customer, BSNL ka naya plan aaya h, 84 din validity ke saath. Recharge karne ke liye *121# dial karo",spam,telecom,S06,synthetic_hinglish,hinglish
+"DEAR CUSTOMER, JIO KA NAYA PLAN AAYA HAI, 84 DIN VALIDITY KE SAATH. RECHARGE KARNE KE LIYE *121# DIAL KARO",spam,telecom,S06,synthetic_hinglish,hinglish
+"dear customer, vi ka naya plan aaya hai, 84 din validity ke saath. recharge karne ke liye *121# dial karo",spam,telecom,S06,synthetic_hinglish,hinglish
+"Dear customer, BSNL ka naya plan aaya hai, 84 din validity ke saath. Recharge karne ke liye *121# dial karo",spam,telecom,S06,synthetic_hinglish,hinglish
+"Vi caller tune set karo sirf Rs 5 me! Apna favourite gaana chuno, reply SET to start",spam,telecom,S07,synthetic_hinglish,hinglish
+"Airtel caller tune set karo sirf Rs 5 me! Apna favourite gaana chuno, reply SET to start...",spam,telecom,S07,synthetic_hinglish,hinglish
+"BSNL caller tune set karo sirf Rs 5 me! Apna favourite gaana chuno, reply SET to start",spam,telecom,S07,synthetic_hinglish,hinglish
+"airtel caller tune set karo sirf rs 5 me! apna favourite gaana chuno, reply set to start",spam,telecom,S07,synthetic_hinglish,hinglish
+"jio caller tune set karo sirf rs 5 me! apna favourite gaana chuno, reply set to start !",spam,telecom,S07,synthetic_hinglish,hinglish
+"Pune me 2BHK flat sirf 35 lakh me! Site visit free, aaj hi call kro +91 55555 80238...",spam,realestate,S08,synthetic_hinglish,hinglish
+"baramati me 2bhk flat sirf 35 lakh me! site visit free, aaj hi call karo +91 55555 94937",spam,realestate,S08,synthetic_hinglish,hinglish
+"Pune me 2BHK flat sirf 35 lakh me! Site visit free, aaj hi call karo +91 55555 38505...",spam,realestate,S08,synthetic_hinglish,hinglish
+"Satara me 2BHK flat sirf 35 lakh me! Site visit free, aaj hi call karo +91 55555 41038",spam,realestate,S08,synthetic_hinglish,hinglish
+"Pune me 2BHK flat sirf 35 lakh me! Site visit free, aaj hi call karo +91 55555 62344!!",spam,realestate,S08,synthetic_hinglish,hinglish
+"Plot booking shuru! Mumbai highway ke paas NA plot, easy EMI available. Visit karo is Sunday",spam,realestate,S09,synthetic_hinglish,hinglish
+"PLOT BOOKING SHURU! PUNE HIGHWAY KE PAAS NA PLOT, EASY EMI AVAILABLE. VISIT KARO IS SUNDAY",spam,realestate,S09,synthetic_hinglish,hinglish
+"Plot booking shuru! Baramati highway ke paas NA plot, easy EMI available. Visit kro is Sunday",spam,realestate,S09,synthetic_hinglish,hinglish
+"Plot booking shuru! Pune highway ke paas NA plot, easy EMI available. Visit kro is Sunday",spam,realestate,S09,synthetic_hinglish,hinglish
+"Plot booking shuru! Satara highway ke paas NA plot, easy EMI available. Visit karo is Sunday",spam,realestate,S09,synthetic_hinglish,hinglish
+"IIT JEE/NEET crash course admission open! Pune me best faculty, 70% scholarship. Abhi register kro",spam,education,S10,synthetic_hinglish,hinglish
+"iit jee/neet crash course admission open! mumbai me best faculty, 30% scholarship. abhi register kro",spam,education,S10,synthetic_hinglish,hinglish
+"IIT JEE/NEET crash course admission open! Nashik me best faculty, 40% scholarship. Abhi register kro",spam,education,S10,synthetic_hinglish,hinglish
+"IIT JEE/NEET CRASH COURSE ADMISSION OPEN! NAGPUR ME BEST FACULTY, 70% SCHOLARSHIP. ABHI REGISTER KARO",spam,education,S10,synthetic_hinglish,hinglish
+"IIT JEE/NEET CRASH COURSE ADMISSION OPEN! PUNE ME BEST FACULTY, 70% SCHOLARSHIP. ABHI REGISTER KARO",spam,education,S10,synthetic_hinglish,hinglish
+"English speaking course sirf 30 din me! Free demo class kal 5 baje, seat book karo +91 55555 48039",spam,education,S11,synthetic_hinglish,hinglish
+"ENGLISH SPEAKING COURSE SIRF 30 DIN ME! FREE DEMO CLASS KAL 5 BAJE, SEAT BOOK KARO +91 55555 90599...",spam,education,S11,synthetic_hinglish,hinglish
+"ENGLISH SPEAKING COURSE SIRF 30 DIN ME! FREE DEMO CLASS KAL 5 BAJE, SEAT BOOK KRO +91 55555 08705",spam,education,S11,synthetic_hinglish,hinglish
+"English speaking course sirf 30 din me! Free demo class kal 5 baje, seat book karo +91 55555 21851",spam,education,S11,synthetic_hinglish,hinglish
+"English speaking course sirf 30 din me! Free demo class kal 5 baje, seat book karo +91 55555 75289",spam,education,S11,synthetic_hinglish,hinglish
+"Weight kam karo sirf 15 din me ayurvedic powder se! Order karo aaj, COD available",spam,health,S12,synthetic_hinglish,hinglish
+"Weight kam kro sirf 15 din me ayurvedic powder se! Order kro aaj, COD available !",spam,health,S12,synthetic_hinglish,hinglish
+"Weight kam kro sirf 15 din me ayurvedic powder se! Order kro aaj, COD available",spam,health,S12,synthetic_hinglish,hinglish
+"WEIGHT KAM KRO SIRF 15 DIN ME AYURVEDIC POWDER SE! ORDER KRO AAJ, COD AVAILABLE!!",spam,health,S12,synthetic_hinglish,hinglish
+"Weight kam karo sirf 15 din me ayurvedic powder se! Order karo aaj, COD available !",spam,health,S12,synthetic_hinglish,hinglish
+"Free health checkup camp Friday ko Nagpur me. Sugar, BP check bilkul free, sab log aaiye",spam,health,S13,synthetic_hinglish,hinglish
+"Free health checkup camp aaj Nagpur me. Sugar, BP check bilkul free, sab log aaiye",spam,health,S13,synthetic_hinglish,hinglish
+"Free health checkup camp aaj Mumbai me. Sugar, BP check bilkul free, sab log aaiye",spam,health,S13,synthetic_hinglish,hinglish
+"Free health checkup camp parso Baramati me. Sugar, BP check bilkul free, sab log aaiye",spam,health,S13,synthetic_hinglish,hinglish
+"FREE HEALTH CHECKUP CAMP SUNDAY KO NASHIK ME. SUGAR, BP CHECK BILKUL FREE, SAB LOG AAIYE!!",spam,health,S13,synthetic_hinglish,hinglish
+"Credit card lo zero joining fee ke saath! Lifetime free card, apply karne ke liye reply YES",spam,finance,S14,synthetic_hinglish,hinglish
+"Credit card lo zero joining fee ke saath! Lifetime free card, apply karne ke liye reply YES !",spam,finance,S14,synthetic_hinglish,hinglish
+"Credit card lo zero joining fee ke saath! Lifetime free card, apply karne ke liye reply YES!!",spam,finance,S14,synthetic_hinglish,hinglish
+"Credit card lo zero joining fee ke saath! Lifetime free card, apply karne ke liye reply YES...",spam,finance,S14,synthetic_hinglish,hinglish
+Mutual fund me SIP shuru karo sirf Rs 500 se. Expert advice ke liye call karo +91 55555 29221,spam,finance,S15,synthetic_hinglish,hinglish
+Mutual fund me SIP shuru karo sirf Rs 500 se. Expert advice ke liye call karo +91 55555 54722,spam,finance,S15,synthetic_hinglish,hinglish
+Mutual fund me SIP shuru karo sirf Rs 500 se. Expert advice ke liye call karo +91 55555 33945,spam,finance,S15,synthetic_hinglish,hinglish
+Mutual fund me SIP shuru karo sirf Rs 500 se. Expert advice ke liye call karo +91 55555 87996!!,spam,finance,S15,synthetic_hinglish,hinglish
+Mutual fund me SIP shuru karo sirf Rs 500 se. Expert advice ke liye call karo +91 55555 34244,spam,finance,S15,synthetic_hinglish,hinglish
+"Gold loan sabse kam byaj par! Nearest branch visit karo, same day disbursal",spam,finance,S16,synthetic_hinglish,hinglish
+"Gold loan sabse kam byaj par! Nearest branch visit kro, same day disbursal",spam,finance,S16,synthetic_hinglish,hinglish
+"Gold loan sabse kam byaj par! Nearest branch visit kro, same day disbursal !",spam,finance,S16,synthetic_hinglish,hinglish
+"Gold loan sabse kam byaj par! Nearest branch visit kro, same day disbursal...",spam,finance,S16,synthetic_hinglish,hinglish
+"Gold loan sabse kam byaj par! Nearest branch visit karo, same day disbursal!!",spam,finance,S16,synthetic_hinglish,hinglish
+"Naya web series dekho free! Sirf aaj ke liye OTT subscription 30% off, abi subscribe karo",spam,entertainment,S17,synthetic_hinglish,hinglish
+"Naya web series dekho free! Sirf aaj ke liye OTT subscription 30% off, abhi subscribe karo !",spam,entertainment,S17,synthetic_hinglish,hinglish
+"Naya web series dekho free! Sirf aaj ke liye OTT subscription 20% off, abhi subscribe karo",spam,entertainment,S17,synthetic_hinglish,hinglish
+"Naya web series dekho free! Sirf aaj ke liye OTT subscription 70% off, abi subscribe kro",spam,entertainment,S17,synthetic_hinglish,hinglish
+"Naya web series dekho free! Sirf aaj ke liye OTT subscription 60% off, abhi subscribe kro",spam,entertainment,S17,synthetic_hinglish,hinglish
+"Cricket fantasy league join karo aur bade inaam jeeto! Pehla contest free, app download karo",spam,entertainment,S18,synthetic_hinglish,hinglish
+"Cricket fantasy league join kro aur bade inaam jeeto! Pehla contest free, app download kro",spam,entertainment,S18,synthetic_hinglish,hinglish
+"Cricket fantasy league join karo aur bade inaam jeeto! Pehla contest free, app download karo...",spam,entertainment,S18,synthetic_hinglish,hinglish
+"Cricket fantasy league join kro aur bade inaam jeeto! Pehla contest free, app download kro...",spam,entertainment,S18,synthetic_hinglish,hinglish
+"cricket fantasy league join karo aur bade inaam jeeto! pehla contest free, app download karo!!",spam,entertainment,S18,synthetic_hinglish,hinglish
+"rashifal sunne ke liye abhi call kro, pehle 3 minute free! apna bhavishya jaano",spam,entertainment,S19,synthetic_hinglish,hinglish
+"Rashifal sunne ke liye abhi call karo, pehle 3 minute free! Apna bhavishya jaano",spam,entertainment,S19,synthetic_hinglish,hinglish
+"Rashifal sunne ke liye abi call kro, pehle 3 minute free! Apna bhavishya jaano",spam,entertainment,S19,synthetic_hinglish,hinglish
+"RASHIFAL SUNNE KE LIYE ABI CALL KARO, PEHLE 3 MINUTE FREE! APNA BHAVISHYA JAANO !",spam,entertainment,S19,synthetic_hinglish,hinglish
+"RASHIFAL SUNNE KE LIYE ABI CALL KARO, PEHLE 3 MINUTE FREE! APNA BHAVISHYA JAANO",spam,entertainment,S19,synthetic_hinglish,hinglish
+"Flash sale alert: smartphones par 70% off, sirf agle 12 ghante! Myntra par check karo!!",spam,promo,S20,synthetic_hinglish,hinglish
+"Flash sale alert: smartphones par 50% off, sirf agle 12 ghante! Myntra par check karo",spam,promo,S20,synthetic_hinglish,hinglish
+"Flash sale alert: smartphones par 70% off, sirf agle 6 ghante! DMart par check karo",spam,promo,S20,synthetic_hinglish,hinglish
+"Flash sale alert: smartphones par 20% off, sirf agle 6 ghante! DMart par check karo",spam,promo,S20,synthetic_hinglish,hinglish
+"Flash sale alert: smartphones par 10% off, sirf agle 6 ghante! Meesho par check karo",spam,promo,S20,synthetic_hinglish,hinglish
+SHAADI SEASON OFFER: LEHENGA AUR SHERWANI PAR 20% TAK CHHOOT. KOLHAPUR SHOWROOM VISIT KAREIN,spam,promo,S21,synthetic_hinglish,hinglish
+Shaadi season offer: lehenga aur sherwani par 40% tak chhoot. Nashik showroom visit karein,spam,promo,S21,synthetic_hinglish,hinglish
+Shaadi season offer: lehenga aur sherwani par 30% tak chhoot. Nagpur showroom visit karein,spam,promo,S21,synthetic_hinglish,hinglish
+SHAADI SEASON OFFER: LEHENGA AUR SHERWANI PAR 10% TAK CHHOOT. NASHIK SHOWROOM VISIT KAREIN,spam,promo,S21,synthetic_hinglish,hinglish
+shaadi season offer: lehenga aur sherwani par 20% tak chhoot. nagpur showroom visit karein !,spam,promo,S21,synthetic_hinglish,hinglish
+"AC SERVICE SIRF RS 399 ME! GARMI SE PEHLE BOOKING KARO, TECHNICIAN GHAR AAYEGA",spam,services,S22,synthetic_hinglish,hinglish
+"AC service sirf Rs 399 me! Garmi se pehle booking karo, technician ghar aayega!!",spam,services,S22,synthetic_hinglish,hinglish
+"AC service sirf Rs 399 me! Garmi se pehle booking kro, technician ghar aayega",spam,services,S22,synthetic_hinglish,hinglish
+"AC service sirf Rs 399 me! Garmi se pehle booking kro, technician ghar aayega...",spam,services,S22,synthetic_hinglish,hinglish
+"ac service sirf rs 399 me! garmi se pehle booking karo, technician ghar aayega...",spam,services,S22,synthetic_hinglish,hinglish
+"Ghar baithe car wash service, monthly plan par 30% discount. Book karne ke liye reply WASH!!",spam,services,S23,synthetic_hinglish,hinglish
+"Ghar baithe car wash service, monthly plan par 30% discount. Book karne ke liye reply WASH",spam,services,S23,synthetic_hinglish,hinglish
+"Ghar baithe car wash service, monthly plan par 20% discount. Book karne ke liye reply WASH",spam,services,S23,synthetic_hinglish,hinglish
+"Ghar baithe car wash service, monthly plan par 10% discount. Book karne ke liye reply WASH!!",spam,services,S23,synthetic_hinglish,hinglish
+"ghar baithe car wash service, monthly plan par 60% discount. book karne ke liye reply wash",spam,services,S23,synthetic_hinglish,hinglish
+"Aapke ward ke vikas ke liye parso sabha hai, sab log zaroor aaye. Free nashta aur chai",spam,political,S24,synthetic_hinglish,hinglish
+"Aapke ward ke vikas ke liye aaj sabha h, sab log zaroor aaye. Free nashta aur chai...",spam,political,S24,synthetic_hinglish,hinglish
+"Aapke ward ke vikas ke liye Sunday ko sabha hai, sab log zaroor aaye. Free nashta aur chai",spam,political,S24,synthetic_hinglish,hinglish
+"Aapke ward ke vikas ke liye kal sabha hai, sab log zaroor aaye. Free nashta aur chai...",spam,political,S24,synthetic_hinglish,hinglish
+"aapke ward ke vikas ke liye friday ko sabha hai, sab log zaroor aaye. free nashta aur chai",spam,political,S24,synthetic_hinglish,hinglish
+"Restaurant opening offer! Baramati me naya outlet, pehle 100 customers ko free vada pav",spam,promo,S25,synthetic_hinglish,hinglish
+"Restaurant opening offer! Satara me naya outlet, pehle 100 customers ko free chai",spam,promo,S25,synthetic_hinglish,hinglish
+"RESTAURANT OPENING OFFER! PUNE ME NAYA OUTLET, PEHLE 100 CUSTOMERS KO FREE CHAI",spam,promo,S25,synthetic_hinglish,hinglish
+"Restaurant opening offer! Kolhapur me naya outlet, pehle 100 customers ko free biryani",spam,promo,S25,synthetic_hinglish,hinglish
+"RESTAURANT OPENING OFFER! NAGPUR ME NAYA OUTLET, PEHLE 100 CUSTOMERS KO FREE CHAI",spam,promo,S25,synthetic_hinglish,hinglish
+Data khatam? Jio 1GB booster sirf Rs 19 me. Abhi activate kro app se...,spam,telecom,S26,synthetic_hinglish,hinglish
+Data khatam? Airtel 1GB booster sirf Rs 19 me. Abhi activate karo app se...,spam,telecom,S26,synthetic_hinglish,hinglish
+Data khatam? BSNL 1GB booster sirf Rs 19 me. Abhi activate karo app se,spam,telecom,S26,synthetic_hinglish,hinglish
+Data khatam? Airtel 1GB booster sirf Rs 19 me. Abhi activate karo app se,spam,telecom,S26,synthetic_hinglish,hinglish
+DATA KHATAM? JIO 1GB BOOSTER SIRF RS 19 ME. ABHI ACTIVATE KRO APP SE,spam,telecom,S26,synthetic_hinglish,hinglish
+"Kal college lecture 11 baje h, time pe aa jana.",ham,college,H01,synthetic_hinglish,hinglish
+"Kal college lecture 2 baje hai, time pe aa jana.",ham,college,H01,synthetic_hinglish,hinglish
+"Kal college lecture 10 baje hai, time pe aa jana...",ham,college,H01,synthetic_hinglish,hinglish
+"Kal college lecture 7:30 baje hai, time pe aa jana.",ham,college,H01,synthetic_hinglish,hinglish
+"kal college lecture 10 baje hai, time pe aa jana.",ham,college,H01,synthetic_hinglish,hinglish
+"didi, DBMS ka assignment kab tak submit karna hai? Mujhe date yaad nhi",ham,college,H02,synthetic_hinglish,hinglish
+"didi, Data Mining ka assignment kab tak submit karna hai? Mujhe date yaad nahi",ham,college,H02,synthetic_hinglish,hinglish
+"sir, Machine Learning ka assignment kab tak submit karna hai? Mujhe date yaad nahi",ham,college,H02,synthetic_hinglish,hinglish
+"DOST, MACHINE LEARNING KA ASSIGNMENT KAB TAK SUBMIT KARNA HAI? MUJHE DATE YAAD NAHI",ham,college,H02,synthetic_hinglish,hinglish
+"didi, Physics ka assignment kab tak submit karna h? Mujhe date yaad nahi !",ham,college,H02,synthetic_hinglish,hinglish
+"Aaj Networks ki practical cancel ho gayi hai, sir ne bola kal hogi...",ham,college,H03,synthetic_hinglish,hinglish
+"Aaj Physics ki practical cancel ho gayi h, sir ne bola kal hogi !",ham,college,H03,synthetic_hinglish,hinglish
+"Aaj Data Mining ki practical cancel ho gayi hai, sir ne bola kal hogi",ham,college,H03,synthetic_hinglish,hinglish
+"Aaj DBMS ki practical cancel ho gayi hai, sir ne bola kal hogi",ham,college,H03,synthetic_hinglish,hinglish
+"Aaj Networks ki practical cancel ho gayi h, sir ne bola kal hogi",ham,college,H03,synthetic_hinglish,hinglish
+"Exam form bharne ki last date aaj h, sab log jaldi bhar do",ham,college,H04,synthetic_hinglish,hinglish
+"Exam form bharne ki last date aaj h, sab log jaldi bhar do!!",ham,college,H04,synthetic_hinglish,hinglish
+"exam form bharne ki last date parso hai, sab log jaldi bhar do",ham,college,H04,synthetic_hinglish,hinglish
+"exam form bharne ki last date kal hai, sab log jaldi bhar do!!",ham,college,H04,synthetic_hinglish,hinglish
+"Exam form bharne ki last date Sunday ko hai, sab log jldi bhar do...",ham,college,H04,synthetic_hinglish,hinglish
+"BHAI NOTES BHEJ DE NA MATHS KE, KAL PADHAI KARNI HAI",ham,college,H05,synthetic_hinglish,hinglish
+"beta notes bhej de na Networks ke, kal padhai karni hai",ham,college,H05,synthetic_hinglish,hinglish
+"beta notes bhej de na Physics ke, kal padhai karni hai",ham,college,H05,synthetic_hinglish,hinglish
+"yaar notes bhej de na Physics ke, kal padhai karni hai",ham,college,H05,synthetic_hinglish,hinglish
+"bro notes bhej de na Networks ke, kal padhai karni hai!!",ham,college,H05,synthetic_hinglish,hinglish
+"Project meeting aaj 9 baje library me, laptop leke aana",ham,college,H06,synthetic_hinglish,hinglish
+"Project meeting Monday ko 10 baje library me, laptop leke aana",ham,college,H06,synthetic_hinglish,hinglish
+"Project meeting Friday ko 7:30 baje library me, laptop leke aana",ham,college,H06,synthetic_hinglish,hinglish
+"Project meeting Sunday ko 9 baje library me, laptop leke aana",ham,college,H06,synthetic_hinglish,hinglish
+"Project meeting kal 11 baje library me, laptop leke aana",ham,college,H06,synthetic_hinglish,hinglish
+beta khana kha liya? ghar kab aa rahe ho?,ham,family,H07,synthetic_hinglish,hinglish
+beta khana kha liya? ghar kab aa rahe ho?!!,ham,family,H07,synthetic_hinglish,hinglish
+Beta khana kha liya? Ghar kab aa rahe ho? !,ham,family,H07,synthetic_hinglish,hinglish
+Beta khana kha liya? Ghar kab aa rahe ho?...,ham,family,H07,synthetic_hinglish,hinglish
+"Mummy bol rahi hai parso sab log mama ke ghar ja rahe hai, tum bhi chalo",ham,family,H08,synthetic_hinglish,hinglish
+"MUMMY BOL RAHI HAI FRIDAY KO SAB LOG MAMA KE GHAR JA RAHE HAI, TUM BHI CHALO",ham,family,H08,synthetic_hinglish,hinglish
+"Mummy bol rahi h parso sab log mama ke ghar ja rahe h, tum bhi chalo",ham,family,H08,synthetic_hinglish,hinglish
+"Mummy bol rahi hai Sunday ko sab log mama ke ghar ja rahe hai, tum bhi chalo!!",ham,family,H08,synthetic_hinglish,hinglish
+"Mummy bol rahi h Sunday ko sab log mama ke ghar ja rahe h, tum bhi chalo",ham,family,H08,synthetic_hinglish,hinglish
+"Papa ki train 9 baje pahuchegi, station pe lene chale jaana",ham,family,H09,synthetic_hinglish,hinglish
+"Papa ki train 4 baje pahuchegi, station pe lene chale jaana",ham,family,H09,synthetic_hinglish,hinglish
+"Papa ki train 10 baje pahuchegi, station pe lene chale jaana!!",ham,family,H09,synthetic_hinglish,hinglish
+"Papa ki train 10 baje pahuchegi, station pe lene chale jaana",ham,family,H09,synthetic_hinglish,hinglish
+"Papa ki train 2 baje pahuchegi, station pe lene chale jaana",ham,family,H09,synthetic_hinglish,hinglish
+"Doodh aur bread le aana aate waqt, ghar me khatam ho gaya hai !",ham,family,H10,synthetic_hinglish,hinglish
+"doodh aur bread le aana aate waqt, ghar me khatam ho gaya h",ham,family,H10,synthetic_hinglish,hinglish
+"Doodh aur bread le aana aate waqt, ghar me khatam ho gaya hai",ham,family,H10,synthetic_hinglish,hinglish
+"Doodh aur bread le aana aate waqt, ghar me khatam ho gaya hai...",ham,family,H10,synthetic_hinglish,hinglish
+"DOODH AUR BREAD LE AANA AATE WAQT, GHAR ME KHATAM HO GAYA H...",ham,family,H10,synthetic_hinglish,hinglish
+yaar aaj shaam chai khane chalein? 4 baje milte hai,ham,friends,H11,synthetic_hinglish,hinglish
+bhai aaj shaam pizza khane chalein? 11 baje milte hai,ham,friends,H11,synthetic_hinglish,hinglish
+YAAR AAJ SHAAM BIRYANI KHANE CHALEIN? 2 BAJE MILTE HAI,ham,friends,H11,synthetic_hinglish,hinglish
+beta aaj shaam biryani khane chalein? 11 baje milte h,ham,friends,H11,synthetic_hinglish,hinglish
+sir aaj shaam biryani khane chalein? 6 baje milte hai,ham,friends,H11,synthetic_hinglish,hinglish
+Match dekhne aa raha hai kya? Friday ko 10 baje start hai,ham,friends,H12,synthetic_hinglish,hinglish
+Match dekhne aa raha h kya? Monday ko 11 baje start h,ham,friends,H12,synthetic_hinglish,hinglish
+MATCH DEKHNE AA RAHA H KYA? KAL 4 BAJE START H,ham,friends,H12,synthetic_hinglish,hinglish
+Match dekhne aa raha h kya? Monday ko 7:30 baje start h !,ham,friends,H12,synthetic_hinglish,hinglish
+Match dekhne aa raha h kya? Sunday ko 10 baje start h,ham,friends,H12,synthetic_hinglish,hinglish
+Happy birthday didi! Party kab de raha hai?,ham,friends,H13,synthetic_hinglish,hinglish
+Happy birthday beta! Party kab de raha hai?,ham,friends,H13,synthetic_hinglish,hinglish
+Happy birthday bhai! Party kab de raha h?,ham,friends,H13,synthetic_hinglish,hinglish
+Happy birthday yaar! Party kab de raha h?,ham,friends,H13,synthetic_hinglish,hinglish
+Happy birthday sir! Party kab de raha hai?,ham,friends,H13,synthetic_hinglish,hinglish
+"MAIN THODA LATE HO JAUNGA, TRAFFIC BAHUT H, 15 MIN ME PAHUCHTA HU",ham,friends,H14,synthetic_hinglish,hinglish
+"Main thoda late ho jaunga, traffic bahut hai, 15 min me pahuchta hu",ham,friends,H14,synthetic_hinglish,hinglish
+"Main thoda late ho jaunga, traffic bahut hai, 15 min me pahuchta hu !",ham,friends,H14,synthetic_hinglish,hinglish
+"MAIN THODA LATE HO JAUNGA, TRAFFIC BAHUT HAI, 15 MIN ME PAHUCHTA HU...",ham,friends,H14,synthetic_hinglish,hinglish
+"main thoda late ho jaunga, traffic bahut hai, 15 min me pahuchta hu!!",ham,friends,H14,synthetic_hinglish,hinglish
+"MOVIE KI TICKETS BOOK KAR DI H, KAL 10 BAJE KA SHOW H",ham,friends,H15,synthetic_hinglish,hinglish
+"Movie ki tickets book kar di hai, kal 2 baje ka show hai !",ham,friends,H15,synthetic_hinglish,hinglish
+"Movie ki tickets book kar di hai, Friday ko 2 baje ka show hai",ham,friends,H15,synthetic_hinglish,hinglish
+"Movie ki tickets book kar di h, Sunday ko 11 baje ka show h",ham,friends,H15,synthetic_hinglish,hinglish
+"Movie ki tickets book kar di hai, Sunday ko 6 baje ka show hai",ham,friends,H15,synthetic_hinglish,hinglish
+"Sir, aaj ki meeting 2 baje shift ho gayi hai, please note kar lijiye !",ham,work,H16,synthetic_hinglish,hinglish
+"sir, aaj ki meeting 4 baje shift ho gayi hai, please note kar lijiye",ham,work,H16,synthetic_hinglish,hinglish
+"SIR, AAJ KI MEETING 7:30 BAJE SHIFT HO GAYI HAI, PLEASE NOTE KAR LIJIYE",ham,work,H16,synthetic_hinglish,hinglish
+"Sir, aaj ki meeting 7:30 baje shift ho gayi hai, pls note kar lijiye",ham,work,H16,synthetic_hinglish,hinglish
+"Sir, aaj ki meeting 10 baje shift ho gayi hai, please note kar lijiye",ham,work,H16,synthetic_hinglish,hinglish
+"report bhej diya hai mail pe, ek baar check kar lena",ham,work,H17,synthetic_hinglish,hinglish
+"Report bhej diya h mail pe, ek baar check kar lena",ham,work,H17,synthetic_hinglish,hinglish
+"Report bhej diya hai mail pe, ek baar check kar lena!!",ham,work,H17,synthetic_hinglish,hinglish
+"Report bhej diya hai mail pe, ek baar check kar lena...",ham,work,H17,synthetic_hinglish,hinglish
+"report bhej diya h mail pe, ek baar check kar lena !",ham,work,H17,synthetic_hinglish,hinglish
+"Kal office 4 baje tak pahuch jaana, client visit hai",ham,work,H18,synthetic_hinglish,hinglish
+"Kal office 6 baje tak pahuch jaana, client visit hai",ham,work,H18,synthetic_hinglish,hinglish
+"kal office 10 baje tak pahuch jaana, client visit hai",ham,work,H18,synthetic_hinglish,hinglish
+"kal office 2 baje tak pahuch jaana, client visit hai",ham,work,H18,synthetic_hinglish,hinglish
+"Kal office 9 baje tak pahuch jaana, client visit hai",ham,work,H18,synthetic_hinglish,hinglish
+aapke sbi account se rs 2500 debit hue hai upi transaction me. agar aapne nahi kiya to bank branch se sampark karein,ham,transaction,H19,synthetic_hinglish,hinglish
+aapke sbi account se rs 25000 debit hue hai upi transaction me. agar aapne nahi kiya to bank branch se sampark karein,ham,transaction,H19,synthetic_hinglish,hinglish
+Aapke Bank of Baroda account se Rs 25000 debit hue hai UPI transaction me. Agar aapne nhi kiya to bank branch se sampark karein,ham,transaction,H19,synthetic_hinglish,hinglish
+AAPKE HDFC ACCOUNT SE RS 1500 DEBIT HUE HAI UPI TRANSACTION ME. AGAR AAPNE NAHI KIYA TO BANK BRANCH SE SAMPARK KAREIN...,ham,transaction,H19,synthetic_hinglish,hinglish
+Aapke Canara Bank account se Rs 1500 debit hue hai UPI transaction me. Agar aapne nhi kiya to bank branch se sampark karein,ham,transaction,H19,synthetic_hinglish,hinglish
+Aapka OTP 236412 hai. Kisi ke saath share na karein. Kotak kabhi OTP nahi maangta,ham,transaction,H20,synthetic_hinglish,hinglish
+Aapka OTP 485456 hai. Kisi ke saath share na karein. ICICI kabhi OTP nahi maangta,ham,transaction,H20,synthetic_hinglish,hinglish
+Aapka OTP 193298 hai. Kisi ke saath share na karein. Canara Bank kabhi OTP nahi maangta,ham,transaction,H20,synthetic_hinglish,hinglish
+aapka otp 223050 hai. kisi ke saath share na karein. sbi kabhi otp nahi maangta,ham,transaction,H20,synthetic_hinglish,hinglish
+Aapka OTP 920114 hai. Kisi ke saath share na karein. Axis Bank kabhi OTP nahi maangta,ham,transaction,H20,synthetic_hinglish,hinglish
+BHIM UPI: AAPNE RS 1500 SUCCESSFULLY BHEJE HAI. DHANYAVAAD!,ham,transaction,H21,synthetic_hinglish,hinglish
+GPay: aapne Rs 25000 successfully bheje hai. Dhanyavaad!,ham,transaction,H21,synthetic_hinglish,hinglish
+GPAY: AAPNE RS 499 SUCCESSFULLY BHEJE HAI. DHANYAVAAD...,ham,transaction,H21,synthetic_hinglish,hinglish
+UPI: AAPNE RS 50000 SUCCESSFULLY BHEJE HAI. DHANYAVAAD !,ham,transaction,H21,synthetic_hinglish,hinglish
+PhonePe: aapne Rs 50000 successfully bheje h. Dhanyavaad!,ham,transaction,H21,synthetic_hinglish,hinglish
+Aapka Flipkart order OD758777 deliver ho gaya hai. Shopping ke liye dhanyavaad,ham,transaction,H22,synthetic_hinglish,hinglish
+Aapka Ajio order OD939089 deliver ho gaya hai. Shopping ke liye dhanyavaad !,ham,transaction,H22,synthetic_hinglish,hinglish
+Aapka Ajio order OD152017 deliver ho gaya hai. Shopping ke liye dhanyavaad,ham,transaction,H22,synthetic_hinglish,hinglish
+Aapka Myntra order OD923045 deliver ho gaya hai. Shopping ke liye dhanyavaad,ham,transaction,H22,synthetic_hinglish,hinglish
+Aapka Flipkart order OD326642 deliver ho gaya hai. Shopping ke liye dhanyavaad,ham,transaction,H22,synthetic_hinglish,hinglish
+Ekart: aapka parcel aaj deliver hoga. Delivery ke time ghar par rahiye,ham,transaction,H23,synthetic_hinglish,hinglish
+India Post: aapka parcel aaj deliver hoga. Delivery ke time ghar par rahiye,ham,transaction,H23,synthetic_hinglish,hinglish
+bluedart: aapka parcel aaj deliver hoga. delivery ke time ghar par rahiye,ham,transaction,H23,synthetic_hinglish,hinglish
+DTDC: aapka parcel aaj deliver hoga. Delivery ke time ghar par rahiye,ham,transaction,H23,synthetic_hinglish,hinglish
+Delhivery: aapka parcel aaj deliver hoga. Delivery ke time ghar par rahiye...,ham,transaction,H23,synthetic_hinglish,hinglish
+Bijli bill Rs 1500 successfully pay ho gaya h. Receipt app me dekh sakte h,ham,transaction,H24,synthetic_hinglish,hinglish
+Bijli bill Rs 9999 successfully pay ho gaya hai. Receipt app me dekh sakte hai,ham,transaction,H24,synthetic_hinglish,hinglish
+BIJLI BILL RS 50000 SUCCESSFULLY PAY HO GAYA HAI. RECEIPT APP ME DEKH SAKTE HAI !,ham,transaction,H24,synthetic_hinglish,hinglish
+Bijli bill Rs 999 successfully pay ho gaya h. Receipt app me dekh sakte h...,ham,transaction,H24,synthetic_hinglish,hinglish
+Bijli bill Rs 25000 successfully pay ho gaya hai. Receipt app me dekh sakte hai,ham,transaction,H24,synthetic_hinglish,hinglish
+Aapka doctor appointment Sunday ko 10 baje confirm hai. Time pe aaiye,ham,appointment,H25,synthetic_hinglish,hinglish
+Aapka doctor appointment kal 10 baje confirm h. Time pe aaiye...,ham,appointment,H25,synthetic_hinglish,hinglish
+aapka doctor appointment kal 6 baje confirm hai. time pe aaiye,ham,appointment,H25,synthetic_hinglish,hinglish
+AAPKA DOCTOR APPOINTMENT FRIDAY KO 6 BAJE CONFIRM HAI. TIME PE AAIYE,ham,appointment,H25,synthetic_hinglish,hinglish
+Aapka doctor appointment kal 9 baje confirm h. Time pe aaiye,ham,appointment,H25,synthetic_hinglish,hinglish
+"Aapki train ka PNR confirm ho gaya hai, details https://library.example/renew pe dekh sakte hai",ham,appointment,H26,synthetic_hinglish,hinglish
+"Aapki train ka PNR confirm ho gaya h, details https://results.example/semester pe dekh sakte h",ham,appointment,H26,synthetic_hinglish,hinglish
+"aapki train ka pnr confirm ho gaya hai, details https://library.example/renew pe dekh sakte hai!!",ham,appointment,H26,synthetic_hinglish,hinglish
+"Aapki train ka PNR confirm ho gaya hai, details https://results.example/semester pe dekh sakte hai",ham,appointment,H26,synthetic_hinglish,hinglish
+"Aapki train ka PNR confirm ho gaya hai, details www.irctc-ticket.example/pnr pe dekh sakte hai",ham,appointment,H26,synthetic_hinglish,hinglish
+"Library book return karne ki last date Friday ko hai, renew ke liye https://library.example/renew",ham,appointment,H27,synthetic_hinglish,hinglish
+"LIBRARY BOOK RETURN KARNE KI LAST DATE SUNDAY KO HAI, RENEW KE LIYE HTTPS://RESULTS.EXAMPLE/SEMESTER",ham,appointment,H27,synthetic_hinglish,hinglish
+"Library book return karne ki last date Friday ko hai, renew ke liye www.irctc-ticket.example/pnr",ham,appointment,H27,synthetic_hinglish,hinglish
+"Library book return karne ki last date kal hai, renew ke liye www.college-portal.example",ham,appointment,H27,synthetic_hinglish,hinglish
+"Library book return karne ki last date Friday ko hai, renew ke liye https://results.example/semester",ham,appointment,H27,synthetic_hinglish,hinglish
+"Semester result declare ho gaya hai, https://library.example/renew pe check karo",ham,college,H28,synthetic_hinglish,hinglish
+"Semester result declare ho gaya hai, https://library.example/renew pe check kro",ham,college,H28,synthetic_hinglish,hinglish
+"SEMESTER RESULT DECLARE HO GAYA HAI, HTTPS://RESULTS.EXAMPLE/SEMESTER PE CHECK KRO",ham,college,H28,synthetic_hinglish,hinglish
+"semester result declare ho gaya hai, www.irctc-ticket.example/pnr pe check karo",ham,college,H28,synthetic_hinglish,hinglish
+"SEMESTER RESULT DECLARE HO GAYA H, WWW.COLLEGE-PORTAL.EXAMPLE PE CHECK KRO",ham,college,H28,synthetic_hinglish,hinglish
+"haan dost theek hai, kal baat karte hai, abi busy hu",ham,friends,H29,synthetic_hinglish,hinglish
+"haan bro theek hai, kal baat karte hai, abhi busy hu",ham,friends,H29,synthetic_hinglish,hinglish
+"Haan dost theek h, kal baat karte h, abi busy hu",ham,friends,H29,synthetic_hinglish,hinglish
+"Haan sir theek h, kal baat karte h, abi busy hu",ham,friends,H29,synthetic_hinglish,hinglish
+"haan beta theek hai, kal baat karte hai, abhi busy hu !",ham,friends,H29,synthetic_hinglish,hinglish
+"didi ki shaadi ki date fix ho gayi hai, sab ko bata dena",ham,family,H30,synthetic_hinglish,hinglish
+"didi ki shaadi ki date fix ho gayi h, sab ko bata dena",ham,family,H30,synthetic_hinglish,hinglish
+"Didi ki shaadi ki date fix ho gayi hai, sab ko bata dena!!",ham,family,H30,synthetic_hinglish,hinglish
+"Didi ki shaadi ki date fix ho gayi hai, sab ko bata dena !",ham,family,H30,synthetic_hinglish,hinglish
+"Didi ki shaadi ki date fix ho gayi h, sab ko bata dena...",ham,family,H30,synthetic_hinglish,hinglish
+"AAJ WORK FROM HOME KAR RAHA HU, KUCH URGENT HO TO CALL KARNA",ham,work,H31,synthetic_hinglish,hinglish
+"AAJ WORK FROM HOME KAR RAHA HU, KUCH URGENT HO TO CALL KARNA!!",ham,work,H31,synthetic_hinglish,hinglish
+"Aaj work from home kar raha hu, kuch urgent ho to call karna...",ham,work,H31,synthetic_hinglish,hinglish
+"Aaj work from home kar raha hu, kuch urgent ho to call karna !",ham,work,H31,synthetic_hinglish,hinglish
+Gym chalein kal subah? 7:30 baje wala batch theek rahega,ham,friends,H32,synthetic_hinglish,hinglish
+gym chalein kal subah? 6 baje wala batch theek rahega...,ham,friends,H32,synthetic_hinglish,hinglish
+Gym chalein kal subah? 2 baje wala batch theek rahega,ham,friends,H32,synthetic_hinglish,hinglish
+GYM CHALEIN KAL SUBAH? 11 BAJE WALA BATCH THEEK RAHEGA,ham,friends,H32,synthetic_hinglish,hinglish
+gym chalein kal subah? 6 baje wala batch theek rahega,ham,friends,H32,synthetic_hinglish,hinglish

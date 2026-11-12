@@ -1,0 +1,23 @@
+# Python / environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+logs/
+
+# Raw third-party data is downloaded by src/data_loader.py (do not commit)
+data/raw/*
+!data/raw/.gitkeep
+
+# Large model binaries: publish via GitHub Releases or Git LFS (see README "Model artifacts")
+models/transformer/
+models/optimized/*.onnx
+!models/optimized/model_pruned_int8.onnx
+!models/optimized/sms_classifier_e2e.onnx
+results/metrics/probs_*.npy
+
+# Generated archives
+*.zip

@@ -1,0 +1,84 @@
+{
+  "uci_raw": 5574,
+  "uci_raw_counts": {
+    "ham": 4827,
+    "spam": 747
+  },
+  "ms_raw": 5971,
+  "ms_raw_counts": {
+    "ham": 4844,
+    "phishing": 638,
+    "spam": 489
+  },
+  "uci_missing_text": 0,
+  "ms_missing_text": 0,
+  "english_after_dedup": 5964,
+  "label_conflicts_dropped": {
+    "within_ms": 37,
+    "within_uci": 0,
+    "cross_source": 0
+  },
+  "english_counts": {
+    "ham": 5057,
+    "spam": 474,
+    "phishing": 433
+  },
+  "english_source_counts": {
+    "uci+mishra_soni": 4798,
+    "mishra_soni": 893,
+    "uci": 273
+  },
+  "hinglish_synthetic": 357,
+  "hinglish_counts": {
+    "phishing": 131,
+    "ham": 126,
+    "spam": 100
+  },
+  "hinglish_templates": 90,
+  "split_sizes": {
+    "train": 4419,
+    "val": 957,
+    "test": 945
+  },
+  "split_label_counts": {
+    "train": {
+      "ham": 3624,
+      "spam": 403,
+      "phishing": 392
+    },
+    "val": {
+      "ham": 780,
+      "phishing": 89,
+      "spam": 88
+    },
+    "test": {
+      "ham": 779,
+      "spam": 83,
+      "phishing": 83
+    }
+  },
+  "split_language_counts": {
+    "train": {
+      "english": 4174,
+      "hinglish": 245
+    },
+    "val": {
+      "english": 895,
+      "hinglish": 62
+    },
+    "test": {
+      "english": 895,
+      "hinglish": 50
+    }
+  },
+  "leakage_text_overlap": {
+    "train_val": 0,
+    "train_test": 0,
+    "val_test": 0
+  },
+  "leakage_template_overlap": {
+    "train_test": 0,
+    "train_val": 0
+  },
+  "public_detected_hinglish": 9
+}

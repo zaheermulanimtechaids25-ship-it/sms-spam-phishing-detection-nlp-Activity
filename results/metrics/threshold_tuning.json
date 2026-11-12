@@ -1,0 +1,81 @@
+{
+  "target_val_phishing_recall": 0.9,
+  "logreg": {
+    "display_name": "TF-IDF + Logistic Regression",
+    "threshold": 0.42,
+    "val_default": {
+      "macro_f1": 0.9051,
+      "phishing_recall": 0.8989,
+      "phishing_precision": 0.8247,
+      "phishing_predicted_as_ham": 0,
+      "ham_false_alarm_rate": 0.0192
+    },
+    "val_tuned": {
+      "macro_f1": 0.9087,
+      "phishing_recall": 0.9101,
+      "phishing_precision": 0.8265,
+      "phishing_predicted_as_ham": 0,
+      "ham_false_alarm_rate": 0.0192
+    },
+    "test_default": {
+      "macro_f1": 0.8937,
+      "phishing_recall": 0.8916,
+      "phishing_precision": 0.8132,
+      "phishing_predicted_as_ham": 1,
+      "ham_false_alarm_rate": 0.0116
+    },
+    "test_tuned": {
+      "macro_f1": 0.8878,
+      "phishing_recall": 0.8916,
+      "phishing_precision": 0.7957,
+      "phishing_predicted_as_ham": 1,
+      "ham_false_alarm_rate": 0.0128
+    },
+    "test_hinglish_tuned": {
+      "macro_f1": 0.8457,
+      "phishing_recall": 0.8889,
+      "phishing_precision": 0.7273,
+      "phishing_predicted_as_ham": 0,
+      "ham_false_alarm_rate": 0.25
+    }
+  },
+  "onnx_pruned_int8": {
+    "display_name": "mMiniLM-L12 ONNX int8 + vocab pruning",
+    "threshold": 0.05,
+    "val_default": {
+      "macro_f1": 0.9249,
+      "phishing_recall": 0.8427,
+      "phishing_precision": 0.9494,
+      "phishing_predicted_as_ham": 6,
+      "ham_false_alarm_rate": 0.0026
+    },
+    "val_tuned": {
+      "macro_f1": 0.9171,
+      "phishing_recall": 0.8652,
+      "phishing_precision": 0.9059,
+      "phishing_predicted_as_ham": 6,
+      "ham_false_alarm_rate": 0.0026
+    },
+    "test_default": {
+      "macro_f1": 0.8765,
+      "phishing_recall": 0.8072,
+      "phishing_precision": 0.8816,
+      "phishing_predicted_as_ham": 2,
+      "ham_false_alarm_rate": 0.0039
+    },
+    "test_tuned": {
+      "macro_f1": 0.8704,
+      "phishing_recall": 0.8313,
+      "phishing_precision": 0.8313,
+      "phishing_predicted_as_ham": 2,
+      "ham_false_alarm_rate": 0.0039
+    },
+    "test_hinglish_tuned": {
+      "macro_f1": 0.8672,
+      "phishing_recall": 0.8889,
+      "phishing_precision": 0.9412,
+      "phishing_predicted_as_ham": 0,
+      "ham_false_alarm_rate": 0.05
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "logreg": {
+    "best_params": {
+      "clf__C": "1",
+      "features__char__ngram_range": "(2, 5)",
+      "features__word__ngram_range": "(1, 2)"
+    },
+    "cv_macro_f1": 0.9015,
+    "val_macro_f1": 0.9051,
+    "val_phishing_recall": 0.8989,
+    "grid_search_time_s": 12.6,
+    "final_fit_time_s": 0.77
+  },
+  "linear_svm": {
+    "best_params": {
+      "clf__C": "0.1"
+    },
+    "cv_macro_f1": 0.9073,
+    "val_macro_f1": 0.8816,
+    "val_phishing_recall": 0.8315,
+    "grid_search_time_s": 2.5
+  },
+  "naive_bayes": {
+    "best_params": {
+      "clf__alpha": "0.01"
+    },
+    "cv_macro_f1": 0.899,
+    "val_macro_f1": 0.8965,
+    "val_phishing_recall": 0.8989,
+    "grid_search_time_s": 2.1
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "keep_top": 0,
+    "kept_vocab": 8268,
+    "size_mb": 26.16,
+    "test_oov_pct": 2.82,
+    "hinglish_oov_pct": 6.34,
+    "agreement_with_pytorch_pct": 99.37,
+    "macro_f1": 0.8742,
+    "hinglish_macro_f1": 0.8653
+  },
+  {
+    "keep_top": 5000,
+    "kept_vocab": 11821,
+    "size_mb": 27.46,
+    "test_oov_pct": 2.61,
+    "hinglish_oov_pct": 5.89,
+    "agreement_with_pytorch_pct": 99.37,
+    "macro_f1": 0.8742,
+    "hinglish_macro_f1": 0.8653
+  },
+  {
+    "keep_top": 20000,
+    "kept_vocab": 25103,
+    "size_mb": 32.33,
+    "test_oov_pct": 2.07,
+    "hinglish_oov_pct": 4.62,
+    "agreement_with_pytorch_pct": 99.58,
+    "macro_f1": 0.8765,
+    "hinglish_macro_f1": 0.8653
+  },
+  {
+    "keep_top": 50000,
+    "kept_vocab": 53335,
+    "size_mb": 42.66,
+    "test_oov_pct": 1.4,
+    "hinglish_oov_pct": 3.43,
+    "agreement_with_pytorch_pct": 99.79,
+    "macro_f1": 0.8746,
+    "hinglish_macro_f1": 0.8672
+  },
+  {
+    "keep_top": 100000,
+    "kept_vocab": 101717,
+    "size_mb": 60.38,
+    "test_oov_pct": 0.71,
+    "hinglish_oov_pct": 1.86,
+    "agreement_with_pytorch_pct": 99.89,
+    "macro_f1": 0.8772,
+    "hinglish_macro_f1": 0.8915
+  }
+]

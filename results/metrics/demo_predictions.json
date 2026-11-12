@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ham_english",
+    "text": "Your appointment is confirmed for tomorrow at 10 AM.",
+    "expected_by_brief": "ham",
+    "language_detected": "english",
+    "logreg": {
+      "label": "ham",
+      "confidence": 0.8344
+    },
+    "transformer": {
+      "label": "ham",
+      "confidence": 0.9975
+    },
+    "onnx_pruned_int8": {
+      "label": "ham",
+      "confidence": 0.9975
+    }
+  },
+  {
+    "id": "spam_english",
+    "text": "Congratulations! You have won a free gift. Claim now.",
+    "expected_by_brief": "spam",
+    "language_detected": "english",
+    "logreg": {
+      "label": "phishing",
+      "confidence": 0.9017
+    },
+    "transformer": {
+      "label": "ham",
+      "confidence": 0.9478
+    },
+    "onnx_pruned_int8": {
+      "label": "ham",
+      "confidence": 0.9819
+    }
+  },
+  {
+    "id": "phishing_english",
+    "text": "Your bank account will be blocked today. Update KYC immediately using this link.",
+    "expected_by_brief": "phishing",
+    "language_detected": "english",
+    "logreg": {
+      "label": "phishing",
+      "confidence": 0.7109
+    },
+    "transformer": {
+      "label": "phishing",
+      "confidence": 0.9911
+    },
+    "onnx_pruned_int8": {
+      "label": "phishing",
+      "confidence": 0.9909
+    }
+  },
+  {
+    "id": "phishing_hinglish",
+    "text": "Aapka SBI account band ho jayega. KYC update karne ke liye abhi link open karo.",
+    "expected_by_brief": "phishing",
+    "language_detected": "hinglish",
+    "logreg": {
+      "label": "phishing",
+      "confidence": 0.9615
+    },
+    "transformer": {
+      "label": "phishing",
+      "confidence": 0.991
+    },
+    "onnx_pruned_int8": {
+      "label": "phishing",
+      "confidence": 0.9911
+    }
+  },
+  {
+    "id": "ham_hinglish",
+    "text": "Kal college lecture 10 baje hai, time pe aa jana.",
+    "expected_by_brief": "ham",
+    "language_detected": "hinglish",
+    "logreg": {
+      "label": "ham",
+      "confidence": 0.9133
+    },
+    "transformer": {
+      "label": "ham",
+      "confidence": 0.9976
+    },
+    "onnx_pruned_int8": {
+      "label": "ham",
+      "confidence": 0.9976
+    }
+  }
+]
